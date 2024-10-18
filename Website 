@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Sederhana</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Selamat Datang di Website Saya</h1>
+        <p>Ini adalah website sederhana menggunakan HTML dan CSS.</p>
+    </header>
+
+    <section>
+        <h2>Tentang Saya</h2>
+        <p>Nama saya Panji Setiadi Jasuma, saya seorang desainer grafis dan logo.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Panji Setiadi Jasuma. All rights reserved.</p>
+    </footer>
+</body>
+</html>
